@@ -4,9 +4,9 @@
 
 ## I'm Ethical Hacker, CTF Player , and High-Tech enthusiast!!
 
-- 🔭 I just launch my first Cloud project
+- 🔭 I just launch my journey on [TryHackMe][THM] Platform
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other cybersecurity experts
+- 👯 I’m looking to collaborate with other cybersecurity experts as [BugHunter][Hack] 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch mangas and play video games
 
@@ -32,6 +32,8 @@
 
 </details>
 
+[Hack]: https://hackerone.com/binyv19
+[THM]: https://tryhackme.com/p/binyv
 [website]: https://hackerone.com/binyv19
 [twitter]: https://twitter.com/binyv19
 [youtube]: https://youtube.com/binyv19
