@@ -1,10 +1,8 @@
-# BinYv
-
 ### Hi there, I'm Yves BINAZON - aka [BinYv][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/binyv19?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbinyv19&screen_name=binyv19)
 
-## I'm Ethical Hacker, High-Tech enthusiast, and Teacher!!
+## I'm Ethical Hacker,CTF Player , and High-Tech enthusiast!!
 
 - 🔭 I just launch my first Cloud project
 - 🌱 I’m currently learning everything 🤣
@@ -30,7 +28,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=binyv19&show_icons=true&hide_border=true" />
+  <img align="left" alt="BinYv's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=binyv19&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -38,4 +36,4 @@
 [twitter]: https://twitter.com/binyv19
 [youtube]: https://youtube.com/binyv19
 [instagram]: https://instagram.com/binyv19
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/yves-binazon-97b67919b/
